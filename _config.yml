@@ -16,31 +16,28 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
-  - Name: Facebook (17miles coffee roasters)
-    URL: https://www.facebook.com/17milescoffee
-    Username: 17milescoffee
+  - Name: 17miles coffee roasters
+    URL: https://www.17milescoffeeroasters.com
     Color: '#E60023'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-website
 
     # INSTAGRAM
-  - Name: Instagram (17miles coffee roasters)
-    URL: https://www.instagram.com/17milescoffee
-    Username: 17milescoffee
+  - Name: JavaMax
+    URL: https://www.javamax.com
     Color: '#E60023'
-    Icon-Class: fab fa-instagram
+    Icon-Class: fab fa-website
 
     # TIKTOK
-  - Name: TikTok (17miles coffee roasters)
-    URL: https://tiktok.com/17milescoffee
-    Username: 17milescoffee
+  - Name: weBREW Solutions
+    URL: https://webrew.solutions
     Color: '#E60023'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fab fa-website
 
      # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net
-    Username: harsh98trivedi
-    Color: '#000000'
+  - Name: LinkedIn
+    URL: https://linkedin.com/company/17milescoffeeroasters
+    Username: 17milescoffeeroasters
+    Color: '#E60023'
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
