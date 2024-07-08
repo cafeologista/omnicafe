@@ -16,21 +16,21 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
-  - Name: Facebook: 17miles coffee roasters
+  - Name: Facebook (17miles coffee roasters)
     URL: https://www.facebook.com/17milescoffee
     Username: 17milescoffee
     Color: '#E60023'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram: 17miles coffee roasters
+  - Name: Instagram (17miles coffee roasters)
     URL: https://www.instagram.com/17milescoffee
     Username: @17milescoffee
     Color: '#E60023'
     Icon-Class: fab fa-instagram
 
     # TIKTOK
-  - Name: TikTok
+  - Name: TikTok (17miles coffee roasters)
     URL: https://tiktok.com/17milescoffee
     Username: 17milescoffee
     Color: '#E60023'
