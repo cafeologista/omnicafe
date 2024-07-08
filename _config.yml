@@ -16,24 +16,24 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
+  - Name: Facebook: 17miles coffee roasters
+    URL: https://www.facebook.com/17milescoffee
+    Username: 17milescoffee
+    Color: '#E60023'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: harsh98trivedi
-    Color: '#DD2A7B'
+  - Name: Instagram: 17miles coffee roasters
+    URL: https://www.instagram.com/17milescoffee
+    Username: @17milescoffee
+    Color: '#E60023'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
-    URL: https://x.com
-    Username: harsh98trivedi
-    Color: '#1DA1F2'
+    # TIKTOK
+  - Name: TikTok
+    URL: https://tiktok.com/17milescoffee
+    Username: 17milescoffee
+    Color: '#E60023'
     Icon-Class: fab fa-twitter
 
      # THREADS.NET
