@@ -33,12 +33,6 @@ links:
     Color: '#704747'
     Icon-Class: fab fa-mug-hot
 
-     # cafeologista
-  - Name: Cafeologista
-    URL: cafeologista.github.io
-    Color: '#704747'
-    Icon-Class: fa-brands fa-mug-hot
-
     # email
   - Name: Email
     URL: 'mailto:omnicafe@gmail.com'
