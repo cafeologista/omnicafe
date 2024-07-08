@@ -18,48 +18,32 @@ links:
     # 17miles
   - Name: 17miles coffee roasters
     URL: https://www.17milescoffeeroasters.com
-    Color: '#E60023'
+    Color: '#ff0000'
     Icon-Class: fab fa-globe
 
     # javamax
   - Name: JavaMax
     URL: https://www.javamax.com
-    Color: '#E60023'
+    Color: '#7e5050'
     Icon-Class: fab fa-website
 
     # webrew
   - Name: weBREW Solutions
     URL: https://webrew.solutions
-    Color: '#E60023'
+    Color: '#ec6cc0'
     Icon-Class: fab fa-website
 
      # cafeologista
   - Name: Cafeologista
     URL: cafeologista.github.io
-    Color: '#E60023'
+    Color: '#000000'
     Icon-Class: fa-brands fa-website
 
     # email
   - Name: Email
     URL: 'mailto:omnicafe@gmail.com'
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # WordPress
-  - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
-    Icon-Class: fa-brands fa-envelope
-    Color: '#0073AA'
-    Text_Color: '#ffffff'
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
+    Color: '#000000'
+    Icon-Class: fab fa-envelope
 
   # BUY ME A COFFEE
   - Name: BuyMeACoffee
