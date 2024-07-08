@@ -19,31 +19,31 @@ links:
   - Name: 17miles coffee roasters
     URL: https://www.17milescoffeeroasters.com
     Color: '#704747'
-    Icon-Class: fab fa-globe
+    Icon-Class: fab fa-mug-hot
 
     # javamax
   - Name: JavaMax
     URL: https://www.javamax.com
     Color: '#704747'
-    Icon-Class: fab fa-website
+    Icon-Class: fab fa-mug-hot
 
     # webrew
   - Name: weBREW Solutions
     URL: https://webrew.solutions
     Color: '#704747'
-    Icon-Class: fab fa-website
+    Icon-Class: fab fa-mug-hot
 
      # cafeologista
   - Name: Cafeologista
     URL: cafeologista.github.io
     Color: '#704747'
-    Icon-Class: fa-brands fa-website
+    Icon-Class: fa-brands fa-mug-hot
 
     # email
   - Name: Email
     URL: 'mailto:omnicafe@gmail.com'
     Color: '#704747'
-    Icon-Class: fab fa-envelope
+    Icon-Class: fab fa-mug-hot
 
   # BUY ME A COFFEE
   - Name: BuyMeACoffee
@@ -51,7 +51,7 @@ links:
     Username: cafeologista
     Icon-Class: fas fa-mug-hot
     Color: '#704747'
-    Text_Color: '#000000'
+    Text_Color: '#FFFFFF'
 
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
